@@ -1,0 +1,6 @@
+這段要加在C:\Program Files\Git\etc\bash.bashrc的最後面
+
+cd Desktop\\USER\\Test01\\git_test\\
+alias add='git add -i'
+alias s='git status'
+alias f='start "cmd /c "start "$PWD"""'
